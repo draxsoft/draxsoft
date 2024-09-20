@@ -1,24 +1,17 @@
-## WELCOME TO DRAXSOFT.
+<h1 align="center">Hi 👋, I'm draxsoft.</h1>
+<h3 align="center">A very chill developer from Missouri, moving to Columbia.</h3>
 
-## ABOUT ME
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=draxsoft&label=Profile%20views&color=0e75b6&style=flat" alt="draxsoft" /> </p>
 
-Hello! I'm draxsoft, the solo developer behind Drax, the Modding App/FPS Booster designed specifically for MacOS. drax is where innovation meets customization, aiming to empower MacOS users with gaming capabilities through modding.
-## 
-**PROJECT: DRAX**
+- 🌱 I’m currently learning **Rust, Swift, and more!**
 
+- 💬 Ask me about **Electron, & Javascript.**
 
+- ⚡ Fun fact **I love Empanada's.**
 
-**WHAT IS DRAX?** 
-Drax is a powerful modding tool tailored for MacOS, allowing users to inject mods into games seamlessly. Whether you're looking to tweak user interfaces, add new features, or optimize performance, Drax simplifies the process with its robust functionality.
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+</p>
 
-**FEATURES:**
-Modding Support: Customize and enhance Games on MacOS.
-Injector Capabilities: Inject mods effortlessly into compatible applications.
-
-##
-**CONTRIBUTING:**
-
-Contributions to Drax are welcome! If you have ideas for new features, bug fixes, or improvements, feel free to fork the repository and submit a pull request. Together, we can make Drax even better for the MacOS community.
-
-##
-
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.electronjs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/electron/electron-original.svg" alt="electron" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> </p>
